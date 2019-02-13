@@ -11,5 +11,8 @@ remain as a modern language with influence.
 It was however also interesting to note that the author of the article believes that Python has established dominance
 in the engineering world so strong that Java does not really stand a chance.
 
+-------
 
+I wonder if the writer of the article has anything to say about rise of Kotlin in Android Programming and if 
+perhaps Oracle should be more aggressive with their changes. - Yuankai Shan
 
